@@ -1,7 +1,8 @@
 # BITCOIN IN A NUTSHELL
-<p float="left">
-   <img src="images/banner.png" width="700" height="80" />  
-</p>
+<div align="left">
+  <img src="images/banner.png" alt="Image" width="100%" style="max-width: 800px;">
+</div>
+
 
 
 ₿ Simplified Proof of Concept demonstrating bitcoin architecture and components interactions ₿
