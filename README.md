@@ -1,2 +1,2 @@
-# bitcoin-poc
-Bitcoin network arch PoC
+# BITCOIN SIMPLIFIED
+Simplified Proof of Concept showing bitcoin architecture and components interactions.  
