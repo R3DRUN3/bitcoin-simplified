@@ -31,7 +31,7 @@ The goal of this project is to provide beginners with a basic overview of Bitcoi
 ## Introduction
 
 **Bitcoin** is a decentralized digital currency that operates on a peer-to-peer network **without the need for a central authority**.  
-It was introduced in 2009 by an anonymous person or group of people using the pseudonym *Satoshi Nakamoto*.  
+It was introduced in 2009 via the famous [white paper](https://bitcoin.org/bitcoin.pdf) by an anonymous person or group of people using the pseudonym *Satoshi Nakamoto*.  
 Bitcoin enables secure, fast, and low-cost transactions, making it an innovative alternative to traditional centralized financial systems.  
 
 This PoC aims to provide a very simplified understanding of Bitcoin's architecture, focusing on the key concepts of `blockchain`, `Proof-of-Work (PoW)`, and `wallets`.  
