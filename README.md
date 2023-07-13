@@ -40,7 +40,7 @@ It demonstrates how these components work together to achieve a decentralized an
 ### Blockchain
 
 The blockchain is at the heart of Bitcoin's architecture.  
-It is a public, distributed ledger that records all transactions ever made in the Bitcoin network.  
+It is a [public](https://blockstream.info/), distributed ledger that records all transactions ever made in the Bitcoin network.  
 Each transaction is grouped into blocks, and each block contains a reference to the previous block, forming a chain of blocks.  
 
 The blockchain ensures transparency, immutability, and security of transactions.  
