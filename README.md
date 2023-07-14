@@ -12,7 +12,7 @@ Are you interested in `Bitcoin` but never found the time and/or courage to delve
 This simplified Proof of Concept implementation of the Bitcoin architecture is for you!  
 The goal of this project is to provide beginners with a basic overview of Bitcoin's key functionalities and technical primitives.  
 
->Please note that this PoC is a simplified version and does not reflect the complete complexity of the actual Bitcoin system.  
+>Please note that this PoC is an ultra simplified version and does not reflect the complete complexity of the actual Bitcoin system.  
 >It serves as an educational tool to gain an introductory understanding of the key concepts involved.  
 
 
@@ -48,9 +48,9 @@ Once a block is added to the blockchain, it becomes extremely difficult to alter
 This makes the blockchain a trustworthy source of information.
 ### Proof-of-Work (PoW)
 
-Proof-of-Work (PoW) is one of the most importan concepts around Bitcoin. 
+Proof-of-Work (PoW) is one of the most importan concepts around Bitcoin.  
 It is a consensus mechanism employed by Bitcoin to validate and secure transactions in a decentralized manner.  
-It involves a process where miners compete to solve a complex mathematical puzzle by performing computational work.  
+It involves *mining*: a process where computers called *miners* compete to solve a complex mathematical puzzle by performing computational work.  
 
 Miners continuously modify the data within a block and calculate its [hash](https://en.wikipedia.org/wiki/Hash_function) until they discover a hash that fulfills specific criteria, particularly a certain number of leading zeros, defined by the difficulty level.  
 This adjustable difficulty level guarantees that the average time required to find a valid solution remains constant, irrespective of the computational power available within the network.  
