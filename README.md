@@ -12,6 +12,7 @@ Are you interested in `Bitcoin` but never found the time and/or courage to delve
 This simplified Proof of Concept implementation of the Bitcoin architecture is for you!  
 The goal of this project is to provide beginners with a basic overview of Bitcoin's key functionalities and technical primitives.  
 
+> **Warning**  
 >Please note that this PoC is an ultra simplified version and does not reflect the complete complexity of the actual Bitcoin system.  
 >It serves as an educational tool to gain an introductory understanding of the key concepts involved.  
 
