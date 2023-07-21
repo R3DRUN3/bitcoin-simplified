@@ -15,6 +15,7 @@ The goal of this project is to provide beginners with a basic overview of Bitcoi
 > **Warning**  
 >Please note that this PoC is an ultra simplified version and does not reflect the complete complexity of the actual Bitcoin system.  
 >It serves as an educational tool to gain an introductory understanding of the key concepts involved.  
+>For a detailed technical explanation of the technology, take a look at [this](https://github.com/bitcoinbook/bitcoinbook) repo.
 
 
 ## Table of Contents 
