@@ -66,7 +66,8 @@ It establishes a trustless consensus protocol, where the discovery of a valid so
 ### Wallets
 
 Wallets are software or hardware tools that enable users to manage their Bitcoin holdings and perform transactions.  
-Each wallet has a unique address associated with it, which acts as a digital identifier.  
+Each wallet, starting from a private key, can generate many unique addresses associated with it, which acts as a digital identifier.  
+For an example on how to generate custom addresses, take a look at [this](https://github.com/r3drun3/bitcoin-address-miner) repo.  
 Wallets store private keys, which are used to sign transactions and provide proof of ownership.  
 
 In this PoC, we simulate the creation of two wallets.  
